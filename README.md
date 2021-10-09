@@ -8,11 +8,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinivnv&theme=tokyonight&layout=compact&langs_count=6"/>
 </p>
 
-<div style="display: flex; align-items: center; gap: 1em; justify-content: center;">
+<div>
   <a href="https://www.martinivnv.me/">
 <img height = 50em width = auto src="https://github.com/martinivnv/martinivnv/blob/main/icons/personal-logo.png" alt="Personal Website">
 </a>
-  <p style="margin-bottom:0"><--- Click the logo to visit my personal site!</p>
+  <p>Click the logo above to visit my personal site!</p>
 </div>
 
 </div>
