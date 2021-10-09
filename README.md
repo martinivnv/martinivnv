@@ -12,7 +12,7 @@
   <a href="https://www.martinivnv.me/">
 <img height = 50em width = auto src="https://github.com/martinivnv/martinivnv/blob/main/icons/personal-logo.png" alt="Personal Website">
 </a>
-  <p>Click the logo above to visit my personal site!</p>
+  <p>Click to visit my personal site!</p>
 </div>
 
 </div>
