@@ -4,7 +4,7 @@
 <p>I'm a second year Software Engineering student at McMaster University with a passion for learning new technologies! Currently, I am exploring full stack web development.</p>
 
 <div>
-  <a href="https://www.martinivnv.me/" target="_blank">
+  <a href="https://www.martinivnv.com/" target="_blank">
 <img height = 50em width = auto src="https://github.com/martinivnv/martinivnv/blob/main/icons/personal-logo.png" alt="Personal Website">
 </a>
   <p>👆 Click to visit my personal site!</p>
