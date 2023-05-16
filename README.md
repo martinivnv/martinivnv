@@ -1,7 +1,7 @@
 <div align = center>
 <h1>👋 Hey, I’m Martin Ivanov</h1>
 
-<p>I'm a second year Software Engineering student at McMaster University with a passion for learning new technologies! Currently, I am exploring full stack web development.</p>
+<p>I'm a fourth year Software Engineering student at McMaster University with a passion for learning new technologies! Currently, I am exploring full stack web development.</p>
 
 <div>
   <a href="https://www.martinivnv.com/" target="_blank">
